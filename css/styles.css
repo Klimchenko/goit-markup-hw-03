@@ -47,6 +47,7 @@ img {
   padding-right: 15px;
   margin-right: auto;
   margin-left: auto;
+  box-sizing: border-box;
 }
 .section {
   padding-top: 94px;
@@ -257,6 +258,7 @@ body {
 }
 .team-list .card-thumb {
   padding-top: 30px;
+  padding-bottom: 30px;
 }
 /* ========================= Конец Наша команда ========================= */
 
@@ -355,5 +357,8 @@ body {
 .address .link:hover,
 .address .link:focus {
   color: #2196f3;
+}
+.studio-futer {
+  color: #ffffff;
 }
 /* ========================= Конец Футер ========================= */
