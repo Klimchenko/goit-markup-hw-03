@@ -302,7 +302,6 @@ body {
 .portfolio-item {
   margin-top: 30px;
   margin-left: 30px;
-  border-bottom: 1px solid #eeeeee;
   max-width: 370px;
 }
 .item-header {
@@ -317,6 +316,7 @@ body {
 }
 .portfolio-list .card-thumb {
   padding: 20px 24px;
+  border-bottom: 1px solid #eeeeee;
 }
 /* ========================= Конец Галерея ========================= */
 /* ========================= Футер ========================= */
@@ -345,7 +345,7 @@ body {
 .footer-list {
   list-style: none;
   padding-left: 0;
-  margin-top: 20px;
+  /*margin-top: 20px;*/
 }
 .footer-list .item + .item {
   margin-top: 9px;
